@@ -1,5 +1,5 @@
 # Chichicapan Zapotec (zpv)
-Contains verbal paradigms for Chichicapan Zapotec
+Contains verbal paradigms for Chichicapan Zapotec (Oto-Manguean)
 
 ## Data
 
